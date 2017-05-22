@@ -11,19 +11,23 @@ header{
     background-color:orange;
 }
 #main1{
-background-color:green;
+    background-color:green;
     width:500px;
+    float:left;
 }
 #main2{
-background-color:yellow;
+    background-color:yellow;
     width:500px;
+    float:left;
 }
 aside{
-background-color:blue;
+    background-color:blue;
     width:200px;
+    float:right;
 }
 footer{
-background-color:purple;
+    background-color:purple;
+    clear:both;
 }
 
 .box{
