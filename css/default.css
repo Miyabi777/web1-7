@@ -4,8 +4,8 @@
 .box{
     background-color:red;
   color:black;
-  width*240px;
+  width:240px;
   height:80px;
   margin:5px;
-  float*left;
+  float:left;
 }
