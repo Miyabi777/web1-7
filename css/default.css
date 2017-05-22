@@ -11,15 +11,12 @@ body{
 header{
     background-color:orange;
 }
-
-#main1{
-    background-color:green;
-    width:500px;
-    float:left;
-}
-#main2{
-    background-color:yellow;
-    width:500px;
+.box{
+    background-color:red;
+    color:black;
+    width:240px;
+    height:80px;
+    margin:5px;
     float:left;
 }
 aside{
@@ -30,12 +27,4 @@ aside{
 footer{
     background-color:purple;
     clear:both;
-}
-.box{
-    background-color:red;
-  color:black;
-  width:240px;
-  height:80px;
-  margin:5px;
-  float:left;
 }
